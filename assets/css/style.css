@@ -1,0 +1,77 @@
+.banner {
+    background: url(..//Home/hj2.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:#fff;
+    filter: contrast(70%);
+    filter: brightness(50%);
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    margin-left: 85%;
+    margin-top: 20px;
+    height: 150px;
+    color: #fff;
+    background-color: #36b9cc;
+}
+
+.mt-3 {
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 50%;
+    width: 500px;
+}
+
+.metode {
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 5%;
+    width: 500px;
+}
+
+/* .about-1 p{
+    text-align: center;
+    padding: 3px;
+    color: #fff;
+}
+
+.about-item {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #33c6dc;
+    padding: 80px,30px;
+    box-shadow: 0 0 9px rgba(0,0,0 .6);
+}
+
+.about-item i{ 
+    font-size: 40px;
+    margin: 0px;
+
+}
+
+.about-item h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.about-item hr{
+    width: 46px;
+    height: 3px;
+    background-color: #33c6dc;
+    margin: 0 auto;
+    border: none;
+}
+
+.about-item p{
+    margin-top: 20px;
+}
+
+.about-item:hover{
+    background-color: #36b9cc;
+}
+ */
